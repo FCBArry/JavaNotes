@@ -8,4 +8,4 @@
 * 游戏，服务器
 
 [GitHub](https://github.com/FCBArry/JavaNotes)
-[Get Started](#quick-start)
+[Get Started](#Get-started)
